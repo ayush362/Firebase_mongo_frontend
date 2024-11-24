@@ -91,6 +91,7 @@ git clone https://github.com/ayush362/Firebase_mongo_frontend.git
 cd frontend
 
 Install dependencies:
+Please start the server first locally:https://github.com/GauravKesh/Data_Transfer_Firebase_to_MongoDB
 
 npm install
 
