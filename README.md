@@ -101,3 +101,4 @@ npm run dev
 Access the application at http://localhost:3000.
 
 
+![UI of the frontEnd](ui.png)
