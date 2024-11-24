@@ -87,7 +87,7 @@ Features
 
     Clone the repository:
 
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/ayush362/Firebase_mongo_frontend.git
 cd frontend
 
 Install dependencies:
